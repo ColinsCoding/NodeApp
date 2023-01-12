@@ -1,6 +1,6 @@
 # NodeApp
 
-*Git commands*
+#Git commands#
 
 git commit -m "text describing commit, this is required"
 
