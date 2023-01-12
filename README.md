@@ -16,10 +16,8 @@ S3 buckets
 
 # Git commands
 
-git commit -m "text describing commit, this is required"
+git commit -m "text describing commit, this is required" 
 
-//need this to designate remote repository on your local machine 
-git remote add origin https://github.com/ColinsCasey/NodeApp.git  
+git remote add origin https://github.com/ColinsCasey/NodeApp.git  //need this to designate remote repository on your local machine 
 
-//main is the main branch 
-git push -u origin main
+git push -u origin main //main is the main branch 
