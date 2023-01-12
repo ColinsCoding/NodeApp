@@ -1,5 +1,16 @@
 # NodeApp
 
+# AWS workflow 
+Elastic Bean Stalk 
+hosts node.js webapp // is this accurate?
+
+CodePipeLine
+
+
+S3 buckets 
+
+
+
 # Git commands
 
 git commit -m "text describing commit, this is required"
