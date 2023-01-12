@@ -1,5 +1,8 @@
 # NodeApp
 
+# Purpose 
+Setup backend to recieve images from an internet connection device and store them in an organized S3 bucket 
+
 # AWS workflow 
 Elastic Bean Stalk 
 hosts node.js webapp // is this accurate?
